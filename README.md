@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Tim 👋
+
+I'm a senior at **Rice University** majoring in Computer Science and minoring in Entrepreneurship, with plans to pursue a Master's in Computer Science.
+
+I love competing in hackathons and hacking away at on cool side projects. Here are a few things I've worked on:
+- Founded a startup to help local restaurants stay afloat in the wake of the pandemic, and received funding from Rice's Lilie Lab.
+- [Solved Rubik's Cubes underwater](https://www.youtube.com/watch?v=dpgDliOu9sA) for Salesforce's talent show 
+- Collaborated with student government to create and launch an app to the Google Play Store
+
+You can [get in touch](https://www.linkedin.com/in/timothy-goh99/) with me on LinkedIn!
 
 <!--
 **tGoh98/tGoh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
